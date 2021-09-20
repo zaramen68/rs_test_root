@@ -1,0 +1,121 @@
+ВОЗМОЖНА OPTION : Exposure
+current value is  : 8500
+option is: Exposure def = 8500
+option is: Exposure max = 165000
+option is: Exposure min = 1
+option is: Exposure step = 1
+ВОЗМОЖНА OPTION : Gain
+current value is  : 16
+option is: Gain def = 16
+option is: Gain max = 248
+option is: Gain min = 16
+option is: Gain step = 1
+ВОЗМОЖНА OPTION : Enable Auto Exposure
+current value is  : 1
+option is: Enable Auto Exposure def = 1
+option is: Enable Auto Exposure max = 1
+option is: Enable Auto Exposure min = 0
+option is: Enable Auto Exposure step = 1
+ВОЗМОЖНА OPTION : Visual Preset
+current value is  : 0
+option is: Visual Preset def = 0
+option is: Visual Preset max = 6
+option is: Visual Preset min = 0
+option is: Visual Preset step = 1
+ВОЗМОЖНА OPTION : Laser Power
+current value is  : 150
+option is: Laser Power def = 150
+option is: Laser Power max = 360
+option is: Laser Power min = 0
+option is: Laser Power step = 30
+ВОЗМОЖНА OPTION : Emitter Enabled
+current value is  : 1
+option is: Emitter Enabled def = 1
+option is: Emitter Enabled max = 2
+option is: Emitter Enabled min = 0
+option is: Emitter Enabled step = 1
+ВОЗМОЖНА OPTION : Frames Queue Size
+current value is  : 16
+option is: Frames Queue Size def = 16
+option is: Frames Queue Size max = 32
+option is: Frames Queue Size min = 0
+option is: Frames Queue Size step = 1
+ВОЗМОЖНА OPTION : Asic Temperature
+current value is  : 21
+option is: Asic Temperature def = 0
+option is: Asic Temperature max = 125
+option is: Asic Temperature min = -40
+option is: Asic Temperature step = 0
+ВОЗМОЖНА OPTION : Error Polling Enabled
+current value is  : 1
+option is: Error Polling Enabled def = 0
+option is: Error Polling Enabled max = 1
+option is: Error Polling Enabled min = 0
+option is: Error Polling Enabled step = 1
+ВОЗМОЖНА OPTION : Projector Temperature
+current value is  : 22
+option is: Projector Temperature def = 0
+option is: Projector Temperature max = 125
+option is: Projector Temperature min = -40
+option is: Projector Temperature step = 0
+ВОЗМОЖНА OPTION : Output Trigger Enabled
+current value is  : 0
+option is: Output Trigger Enabled def = 0
+option is: Output Trigger Enabled max = 1
+option is: Output Trigger Enabled min = 0
+option is: Output Trigger Enabled step = 1
+ВОЗМОЖНА OPTION : Depth Units
+current value is  : 0.001
+option is: Depth Units def = 0.001
+option is: Depth Units max = 0.01
+option is: Depth Units min = 1e-06
+option is: Depth Units step = 1e-06
+ВОЗМОЖНА OPTION : Stereo Baseline
+current value is  : 50.0051
+option is: Stereo Baseline def = 50.0051
+option is: Stereo Baseline max = 50.0051
+option is: Stereo Baseline min = 50.0051
+option is: Stereo Baseline step = 0
+ВОЗМОЖНА OPTION : Inter Cam Sync Mode
+ВОЗМОЖНА OPTION : Emitter On Off
+current value is  : 0
+option is: Emitter On Off def = 0
+option is: Emitter On Off max = 1
+option is: Emitter On Off min = 0
+option is: Emitter On Off step = 1
+ВОЗМОЖНА OPTION : Global Time Enabled
+current value is  : 1
+option is: Global Time Enabled def = 1
+option is: Global Time Enabled max = 1
+option is: Global Time Enabled min = 0
+option is: Global Time Enabled step = 1
+ВОЗМОЖНА OPTION : Emitter Always On
+current value is  : 0
+option is: Emitter Always On def = 0
+option is: Emitter Always On max = 1
+option is: Emitter Always On min = 0
+option is: Emitter Always On step = 1
+ВОЗМОЖНА OPTION : Hdr Enabled
+current value is  : 0
+option is: Hdr Enabled def = 0
+option is: Hdr Enabled max = 1
+option is: Hdr Enabled min = 0
+option is: Hdr Enabled step = 1
+ВОЗМОЖНА OPTION : Sequence Name
+current value is  : 0
+option is: Sequence Name def = 1
+option is: Sequence Name max = 3
+option is: Sequence Name min = 0
+option is: Sequence Name step = 1
+ВОЗМОЖНА OPTION : Sequence Size
+current value is  : 2
+option is: Sequence Size def = 2
+option is: Sequence Size max = 2
+option is: Sequence Size min = 2
+option is: Sequence Size step = 1
+ВОЗМОЖНА OPTION : Sequence Id
+current value is  : 0
+option is: Sequence Id def = 0
+option is: Sequence Id max = 2
+option is: Sequence Id min = 0
+option is: Sequence Id step = 1
